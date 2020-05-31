@@ -1,0 +1,6 @@
+echo "# Music-Player-Java-Proje" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/huseyingulcicek08/Music-Player-Java-Proje.git
+git push -u origin master
