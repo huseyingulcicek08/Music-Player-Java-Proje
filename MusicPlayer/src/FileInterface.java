@@ -1,6 +1,6 @@
 
 /**
- * @author: Ashwin Kamalakannan
+ * @author: Hüseyin Gülçiçek
  * last Edited: October 28, 2019
  *
  * Interface containing method definitions that will be invoked by client to
