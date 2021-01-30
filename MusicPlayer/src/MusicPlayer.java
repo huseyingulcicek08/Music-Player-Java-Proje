@@ -1,6 +1,6 @@
 
 /**
- * @author: Ashwin Kamalakannan
+ * @author: Hüseyin Gülçiçek
  * last Edited: October 28, 2019
  *
  * Music Player class. Acts as the client in the Java RMI system. 
